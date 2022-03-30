@@ -1,0 +1,22 @@
+{
+  "name": "aula05sdmmg2903",
+  "version": "1.0.0",
+  "description": "Aula 05 SDM MG 29/03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/Aula05SDMMG2903.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/Aula05SDMMG2903/issues"
+  },
+  "homepage": "https://github.com/mmamorim/Aula05SDMMG2903#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
